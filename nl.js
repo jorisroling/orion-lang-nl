@@ -4,7 +4,7 @@ i18n.map('nl', {
     create: 'Maak',
     logout: 'Logout',
     back: 'Terug',
-    cancel: 'Afbreken',
+    cancel: 'Annuleren',
     delete: 'Verwijderen',
     confirm: 'Bevestigen',
     choose: 'Kies',
