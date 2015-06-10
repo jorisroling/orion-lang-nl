@@ -67,7 +67,7 @@ i18n.map('nl', {
       title: 'Mijn Account',
     },
     create: {
-	      title: 'Creëer een gebruiker',
+      title: 'Creëer een gebruiker',
       createInvitation: 'Creëer een uitnodiging',
       createUserNow: 'Creëer gebruiker nu',
       inviteOther: 'Nodig een ander uit',
@@ -159,6 +159,9 @@ i18n.map('nl', {
     file: {
       choose: 'Kies bestand',
       noFile: 'Geen bestand',
+    },
+    image: {
+      choose: 'Kies plaatje'
     }
   },
   tabular: {
