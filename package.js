@@ -9,7 +9,7 @@ Package.describe({
    * version indicator: 1.1.1, 1.1.2. Always keep the current
    * orion version (currently 1.1.x).
    */
-  version: '1.1.1',
+  version: '1.1.2',
   summary: 'Orion dutch language',
   git: 'https://github.com/jorisroling/orion-lang-nl',
   documentation: 'README.md'
