@@ -1,6 +1,6 @@
 i18n.map('nl', {
   global: {
-    save: 'Bewaard',
+    save: 'Bewaar',
     create: 'Maak',
     logout: 'Logout',
     back: 'Terug',
