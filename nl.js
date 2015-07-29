@@ -121,7 +121,7 @@ i18n.map('nl', {
   },
   dictionary: {
     update: {
-      title: 'Woordenlijst'
+      title: 'Lexicon'
     }
   },
   filesystem: {
